@@ -1,4 +1,6 @@
 ## Hi there 👋
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pierobustamantecruz@gmail.com)](mailto:pierobustamantecruz@gmail.com)
 </p>
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
